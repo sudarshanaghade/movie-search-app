@@ -12,7 +12,7 @@ A modern web application for searching and browsing movies with an intuitive use
 
 ## Screenshot
 
-![Movie App Screenshot](./Screenshot 2026-01-13 231655.png)
+![Movie App Screenshot](./Screenshot.png)
 
 ## Project Structure
 
