@@ -44,6 +44,3 @@ movie-search-app/
 3. Use the genre dropdown to filter results
 4. Click on any movie to view more details
 
-## License
-
-This project is open source and available under the MIT License.
