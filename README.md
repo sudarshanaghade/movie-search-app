@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Movie Search App
+
+A modern web application for searching and browsing movies with an intuitive user interface.
+
+## Features
+
+- **Search Movies**: Search for movies by title
+- **Filter by Genre**: Filter results by movie genres (Action, Drama, Comedy, etc.)
+- **Movie Details**: View movie information including release year and ratings
+- **Popular Movies**: Discover popular and trending movies
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+
+## Screenshot
+
+![Movie App Screenshot](./screenshot.png)
+
+## Project Structure
+
+```
+movie-search-app/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
 ## Getting Started
 
-First, run the development server:
+1. Clone or download the project
+2. Open `index.html` in your web browser
+3. Start searching for your favorite movies
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Technologies Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Movie API Integration
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Usage
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Enter a movie title in the search bar
+2. Click the search button to find movies
+3. Use the genre dropdown to filter results
+4. Click on any movie to view more details
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is open source and available under the MIT License.
